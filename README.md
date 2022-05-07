@@ -21,4 +21,4 @@ Se crea el proyecto con los escenarios de automatizacion, en un patron de diseno
 *Abrir el archivo /AutomatizacionGeneral/src/test/java/Runner/Runner.java
 *En el @cucumberOptions remplazar los tags requeridos, que se copiaron en el paso 1
 *Dar clic derecho y ejecutar desde Junit test
-***
+***# h3r0k-app
